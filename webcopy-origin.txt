@@ -1,0 +1,44 @@
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://pixelplanet.fun/
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\index.htm
+Content Type: text/html
+
+Uri: https://pixelplanet.fun/apple-touch-icon.png
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://pixelplanet.fun/assets/client.tr.b5247563.js
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\assets\client.tr.b5247563.js
+Content Type: application/javascript
+
+Uri: https://pixelplanet.fun/assets/default.5bd346a3.css
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\assets\default.5bd346a3.css
+Content Type: text/css
+
+Uri: https://pixelplanet.fun/assets/vendor.28ab8535.js
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\assets\vendor.28ab8535.js
+Content Type: application/javascript
+
+Uri: https://pixelplanet.fun/favicon.ico
+File Name: C:\Users\User\Desktop\pixel mat\pixelplanet.fun\favicon.ico
+Content Type: image/x-icon
+
